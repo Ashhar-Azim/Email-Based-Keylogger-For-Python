@@ -1,6 +1,4 @@
-Certainly! Here's the content for your `README.md` file in a single code (``` ```) tab:
 
-```
 # Python Keylogger with Email Functionality
 
 This is a simple keylogger written in Python that records keystrokes and emails log files to a specified recipient's email address. The program can be used for educational purposes and understanding keylogging techniques. Please use it responsibly and with proper authorization.
