@@ -56,6 +56,3 @@ THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 - [Pynput](https://pypi.org/project/pynput/): The library used for keyboard monitoring.
 - [Python Email Library](https://docs.python.org/3/library/email.html): For sending emails.
-
-Feel free to customize this `README.md` to provide more specific information about your project. Make sure to include a license file (e.g., `LICENSE`) in your repository with the appropriate licensing terms if you choose to distribute your code.
-```
