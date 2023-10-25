@@ -44,6 +44,7 @@ This keylogger is intended for educational and research purposes only. Ensure th
 
 ## License
 
+[MIT LICENSE](https://github.com/Ashhar-Azim/Email-Based-Keylogger-For-Python/blob/main/LICENSE)
 
 
 ## Acknowledgments
