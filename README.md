@@ -8,7 +8,7 @@ This is a simple keylogger written in Python that records keystrokes and emails 
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/Ashhar-Azim/your-keylogger-repo.git
+   git clone https://github.com/Ashhar-Azim/Email-Based-Keylogger-For-Python.git
    ```
 
 2. Navigate to the project directory:
