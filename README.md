@@ -42,11 +42,6 @@ You can configure the keylogger by modifying the following variables in the `key
 
 This keylogger is intended for educational and research purposes only. Ensure that you have appropriate authorization before using it. Unauthorized use can have legal and ethical consequences.
 
-## License
-
-[MIT LICENSE](https://github.com/Ashhar-Azim/Email-Based-Keylogger-For-Python/blob/main/LICENSE)
-
-
 ## Acknowledgments
 
 - [Pynput](https://pypi.org/project/pynput/): The library used for keyboard monitoring.
