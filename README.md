@@ -14,13 +14,13 @@ This is a simple keylogger written in Python that records keystrokes and emails 
 2. Navigate to the project directory:
 
    ```shell
-   cd your-keylogger-repo
+   cd Email-Based-Keylogger-For-Python
    ```
 
 3. Run the keylogger script:
 
    ```shell
-   python keylogger.py
+   keylogger.py
    ```
 
 4. Follow the on-screen prompts to input the log file directory, email credentials, and recipient's email address.
