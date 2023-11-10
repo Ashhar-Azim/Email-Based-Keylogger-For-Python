@@ -9,7 +9,7 @@ This is a simple keylogger written in Python that records keystrokes and emails 
 
    ```shell
    git clone https://github.com/Ashhar-Azim/Email-Based-Keylogger-For-Python.git
-   ```
+   ``` 
 
 2. Navigate to the project directory:
 
